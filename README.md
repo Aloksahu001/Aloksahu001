@@ -55,9 +55,11 @@ Git | GitHub | Jupyter Notebook | VS Code
 - Quick Learning Ability  
 
 ---
-
 ### 📊 GitHub Stats
-![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aloksahu001&show_icons=true&theme=radical)
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aloksahu001&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aloksahu001&theme=radical&hide_border=true&background=0D1117)
 
 ---
 
