@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alok Sahu</h1>
-<h3 align="center">🤖 AI / ML Engineer | 📊 Data Scientist | 🐍 Python Developer</h3>
+<h3 align="center">🤖 ML Engineer </h3>
 
 <img align="right" alt="AI" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
